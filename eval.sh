@@ -1,0 +1,1 @@
+python examples/freevs/inference_vggt.py --front_only --model_path outputs/vggt_src_pose/checkpoint-15000 --img_pickle waymo_process/waymo_only_front_gt.pkl  --output_dir outputs/debug

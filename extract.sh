@@ -1,0 +1,1 @@
+python waymo_process/extract_bbox.py --waymo_raw_dir /high_perf_store/l3_deep/open-datasets/waymo/v1.4.3/ori/training --output_dir waymo_process/waymo_2d_bbox_speed --interval 2
